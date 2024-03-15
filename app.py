@@ -8,7 +8,7 @@ with st.sidebar:
     st.subheader("Prajwal M Pawar 1RV21AI038")
     st.subheader("Aayaan Hasnain 1RV21AI001")
     st.subheader("Akshay Alva 1RV21AI007")  
-    st.subheader("Ayush Goyal 1RV21AI015")
+    
 
 st.title("💬 RVChat")
 st.caption("🚀 LLM used for demo: Mixtral-8x7B-Instruct-v0.1")
