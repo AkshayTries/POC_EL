@@ -1,2 +1,2 @@
 embedchain
-streamlit==0.86.0
+streamlit==1.29.0
